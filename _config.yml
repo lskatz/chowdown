@@ -1,13 +1,13 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
+title: Chowdown Recipes
+email: lskatz@gmail.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "https://lskatz.github.io/chowdown"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: lskatz 
+github_username:  lskatz 
 
 # Build settings
 markdown: kramdown
