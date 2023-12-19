@@ -2,7 +2,7 @@
 title: Chowdown Recipes
 email: lskatz@gmail.com
 description: The plain text recipe database for hackers
-baseurl: "https://lskatz.github.io/chowdown"
+baseurl: "/chowdown"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
